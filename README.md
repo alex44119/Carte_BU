@@ -19,3 +19,4 @@ Cependant, le prgramme necessite les bibliothèques suivantes :
   - webbrowser
 
 Sur Android, l'application Pydroid 3 est celle que j'utilise personnellement pour faire fonctionner l'application.
+Pour une meilleure expérience sur Mac et sur PC, je conseille de créer un executable qui lance directement le programme python.
