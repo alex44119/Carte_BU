@@ -1,4 +1,4 @@
-# Carte_BU
+# Carte Interactive de la Bibliothèque Universitaire de Nantes
 Création d’une interface graphique permettant de réserver sa place en un clic. Versions PC, Mac et Android.
 
 Carte Interactive de la Bibliothèque Universitaire Santé de Nantes
