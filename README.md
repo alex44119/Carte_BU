@@ -1,8 +1,12 @@
 # Carte Interactive de la Bibliothèque Universitaire de Nantes
 
-<span style="color: red">Malheureusment, après un changement de fonctionnement du site web Affluences, la Carte intéractive n'est plus fonctionnelle, et je n'ai pas la force (car je n'ai plus la necessité) de la maintenir.
+## Disclaimer
+
+<span style="color: #ff0000">Malheureusment, après un changement de fonctionnement du site web Affluences, la Carte intéractive n'est plus fonctionnelle, et je n'ai pas la force (car je n'ai plus la necessité) de la maintenir.
 
 Toute participation à faire renaître ce projet de ses cendres est la bienvenue. ^^</span>
+
+## Description
 
 Création d’une interface graphique permettant de réserver sa place en un clic. Versions PC, Mac et Android.
 
